@@ -1,0 +1,11 @@
+.DS_Store
+project/project
+project/target
+project/.*
+target
+.idea
+*.iml
+*.log
+*.log.*
+.sbtserver
+.sbtserver.lock
